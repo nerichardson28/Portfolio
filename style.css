@@ -1,0 +1,84 @@
+div{
+  background-image: url("");
+  background-color: pink;
+padding-top: 1cm;
+padding-bottom:1cm;
+margin-right:1cm;
+margin-left:1cm;
+margin-bottom:1cm;
+border-radius: 25px;
+ 
+}
+
+body {
+   background-image: url("hardwood.png");
+ }
+
+h1 {
+  color: black;
+   font-family: "Gloria Hallelujah", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  font-size: 50px;
+}
+
+p{
+	color:black;
+	   font-family: "Playpen Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+	text-align: center;
+	font-size:30px;
+}
+button{
+    width:100%;
+    color:black;
+    font-size: 15pt;
+     border-radius: 25px;
+   padding: 10px;
+    width: 100px;
+    height: 50px;
+}
+.stickynote2{
+  background-color:yellow;
+   width:100%;
+    color:black;
+    font-size: 15pt;
+     border-radius: 25px;
+   padding: 10px;
+    width: 100px;
+    height: 50px;
+}
+.stickynote3{
+  background-color:blue;
+   width:100%;
+    color:black;
+    font-size: 15pt;
+     border-radius: 25px;
+   padding: 10px;
+    width: 100px;
+    height: 50px;
+}
+
+.examples{
+  text-align: center;
+  font-size: 40px;
+}
+
+.activities{
+  text-align: left;
+}
+
+.portfolio{
+  background-color: #F5F2C6;
+   border-style: solid;
+  border-color: black;
+  padding-top: 1cm;
+padding-bottom:1cm;
+margin-right:1cm;
+margin-left:1cm;
+margin-bottom:1cm;
+border-radius: 25px;
+}
